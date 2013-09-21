@@ -1,0 +1,38 @@
+
+#wrap {
+	width: 1140px;
+	height: 600px;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	margin: auto;
+	background-color: yellow;
+}
+#front-page-main {
+	background-color: blue;
+	float: left;
+	width: 900px;
+}
+
+#front-page-right {
+	background-color: purple;
+	width: 240px;
+	float: right;
+}
+
+.yoveo-recent-posts-widget {
+	width: 200px;
+	height: 200px;
+	border: 3px solid #000;
+	position:relative;
+	float: left;
+	margin: 5px;
+}
+
+.yoveo-user-widget {
+	width: 240px;
+	height: 480px;
+	border: 3px solid #000;
+	position:relative;
+	float: left;
+	margin: 5px;
+}
